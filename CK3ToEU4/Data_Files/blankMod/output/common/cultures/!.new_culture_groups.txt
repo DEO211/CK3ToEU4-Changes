@@ -18,7 +18,7 @@ gothic_group = {
 	}
 	visigothic = { primary = CAS }
 	ostrogothic = { primary = ITA }
-	getian = { primary = RMN }
+	gepid = { primary = RMN }
 	gothic = { primary = FEO }
 }
 barbaro_germanic = {
@@ -298,7 +298,7 @@ bear_group = {
 		male_names = { Nanuk Ursus Isbjorn Grrrowr Bjorn Grrgrrr Rawr Bams }
 		female_names = { Winona Wilhelmina Edwina Maggie Samantha Maddie Ellie Audrey Precious
 		Abby Bitsy Coco Millie Hannah Princess Polly Taffy Candy Penelope Bella Wilma Betty Betsy }
-		dynasty_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet "Dancer" "Arctoidea" "Carnivora" "Shaggy" "Teddy" "Bera" "Baconi" "Cave" "B�r" "Den" "Teddy" "Fur" "Muncher" "Bj�rnsson" "Threebear" "Sun" "Ursidae" "Carnivora" "Ide" "Brown" "Snout" "Cave" "Claw" "Ursidae" "Baconi" "Helarctos" "Threebear" "Growler" "B�r" "Sun" "Muncher" "Brown"
+		dynasty_names = { Beliy Medved Bjorn Rawrrorr Rrrrr Grrr Gyp Qoi Styrbjorn Blomstfjellet "Dancer" "Arctoidea" "Carnivora" "Shaggy" "Teddy" "Bera" "Baconi" "Cave" "Bär" "Den" "Teddy" "Fur" "Muncher" "Björnsson" "Threebear" "Sun" "Ursidae" "Carnivora" "Ide" "Brown" "Snout" "Cave" "Claw" "Ursidae" "Baconi" "Helarctos" "Threebear" "Growler" "Bär" "Sun" "Muncher" "Brown"
 		}
 	}
 	jan_mayenese = {
@@ -313,7 +313,7 @@ hedgehog_group = {
 		}
 		female_names = { Bijou Blondie Gabby Ginger Goldie Gracie Hazel Izzy Kahlua Kenya Luna
 		Muffy Pandora Penny Pinky Piper Pixie "Powder Puff" Zen Zoe }
-		dynasty_names = { "Solisorex" "Eulipotyphla" "Talpidae" "Teja" "Scutisorex" "Crocidura" "Solisorex" "Surdisorex" "Teja" "Neohylomys" "Sylvisorex" "Atelerix" "Congosorex" "Neohylomys" "Hylomys" "Teja" "Paraechinus" "Mesechinus" "Surdisorex" "Scutisorex" "Teja" "Neohylomys" "Paraechinus" "Ruwenzorisorex" "Neohylomys" "Deinogalerix" "Chimarrogale" "Eulipotyphla" "Pholidocercus" "Crocidura" "Quill" "Neotetracus" "Echinosorex" "Solisorex" "Silvacola" "Podogymnura" "Erinaceus" "Diplomesodon" "Echinosorex" "Hylomys" "Hylomys" "Neotetracus" "Erinaceinae" "Surdisorex" "Scutisorex" "Prickles" "Hylomys" "Echinosorex" "Hylomys" "Crocidura" "Mesechinus" "Floof" "Floof" "Echinosorex" "Crocidura" "Silvacola" "Soricidae" "Myosorex" "Echinosorex" "Thorn" "Pholidocercus" "Prickles" "Teja" "Flesberg" "K�nigsberg" "Ragnit" "K�nigsberg" "Bahaduran"
+		dynasty_names = { "Solisorex" "Eulipotyphla" "Talpidae" "Teja" "Scutisorex" "Crocidura" "Solisorex" "Surdisorex" "Teja" "Neohylomys" "Sylvisorex" "Atelerix" "Congosorex" "Neohylomys" "Hylomys" "Teja" "Paraechinus" "Mesechinus" "Surdisorex" "Scutisorex" "Teja" "Neohylomys" "Paraechinus" "Ruwenzorisorex" "Neohylomys" "Deinogalerix" "Chimarrogale" "Eulipotyphla" "Pholidocercus" "Crocidura" "Quill" "Neotetracus" "Echinosorex" "Solisorex" "Silvacola" "Podogymnura" "Erinaceus" "Diplomesodon" "Echinosorex" "Hylomys" "Hylomys" "Neotetracus" "Erinaceinae" "Surdisorex" "Scutisorex" "Prickles" "Hylomys" "Echinosorex" "Hylomys" "Crocidura" "Mesechinus" "Floof" "Floof" "Echinosorex" "Crocidura" "Silvacola" "Soricidae" "Myosorex" "Echinosorex" "Thorn" "Pholidocercus" "Prickles" "Teja" "Flesberg" "Königsberg" "Ragnit" "Königsberg" "Bahaduran"
 		}
 	}
 }
@@ -321,7 +321,7 @@ duck_group = {
 	duck_culture = {
 		primary = TRL
 		male_names = { Daffy Quacker Huck Waddles Donald Dominic Whitewing Duckus Quackmire Eggbert Howard Scrooge Winghelm Ludwing Gladstone Cake Blunder Duck Quackers Pippi Face Grape Anaheim
-			Quackel Beaky Nottington Drake Mallard Hans Scrooge Darkwing Huey Dewey Louie Bolivar M�rten Maarten Cornelius Havbard Knase Kalle Arne Dylan Emelio Greg Paul
+			Quackel Beaky Nottington Drake Mallard Hans Scrooge Darkwing Huey Dewey Louie Bolivar Mårten Maarten Cornelius Havbard Knase Kalle Arne Dylan Emelio Greg Paul
 		}
 		female_names = { Holly Marigold Lily Harper Gabby Willow Jade Molly Penny Tulip
 		Peach Bella Jasmine Millie Zoey Gracie Dixie Lacey Sadie Lucy Daisy Daphne }
@@ -389,7 +389,7 @@ dragon_group = {
 			Vilholin Xanscilathampos Yiarni Yindoth Ylithargathril Ylveraasahlisar Zathrantramix
 			Zellenesterex Zormapalearath Zundaerazylym "Zz'Pzora"
 		}
-		dynasty_names = { "Kytrapan" "Vorcasymath" "Kytrapan" "Carrafyrt" "Noighyd" "of the Fires" "Grautarrein" "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Grautarrein" "of the Skies" "Rainbowscale" "Carrafyrt" "of the Moon" "of the Waters" "Noighyd" "Mc�scale" "Colichir" "Eorikamat" "Colichir" "Grautarrein" "Vorcasymath" "Rackart" "of the Skies" "Vorcasymath" "Vilisynther" "of the Moon" "Kosorrat" "of the Waters" "of the Waters" "Seserriff" "Noighyd" "of the Moon" "of the Fires" "Vilisynther" "Gemhide" "of the Waters" "Vilisynther" "Goldscale" "Mc�scale" "Colichir" "Kerokarvar" "Kerokarvar" "Dragaret" "Kerokarvar" "Kytrapan" "Rainbowscale" "Grautarrein" "of the Moon" "Vorcasymath" "of the Skies" "Grautarrein" "of the Moon" "Colichir" "Kerokarvar" "Eorikamat" "of the Earths" "Colichir" "Noighyd" "of the Earths" "of the Fires" "Mc�scale" "Dragaret" "Draokoran" "Vilisynther" "of the Stars" "Vorcasymath" "of the Fires" "Mc�scale" "Eorikamat" "Lipari" "Cefal�" "Mazara" "Caltabellotta" "Catania" "Latakiah" "Rabat"
+		dynasty_names = { "Kytrapan" "Vorcasymath" "Kytrapan" "Carrafyrt" "Noighyd" "of the Fires" "Grautarrein" "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Grautarrein" "of the Skies" "Rainbowscale" "Carrafyrt" "of the Moon" "of the Waters" "Noighyd" "Mcscale" "Colichir" "Eorikamat" "Colichir" "Grautarrein" "Vorcasymath" "Rackart" "of the Skies" "Vorcasymath" "Vilisynther" "of the Moon" "Kosorrat" "of the Waters" "of the Waters" "Seserriff" "Noighyd" "of the Moon" "of the Fires" "Vilisynther" "Gemhide" "of the Waters" "Vilisynther" "Goldscale" "Mcscale" "Colichir" "Kerokarvar" "Kerokarvar" "Dragaret" "Kerokarvar" "Kytrapan" "Rainbowscale" "Grautarrein" "of the Moon" "Vorcasymath" "of the Skies" "Grautarrein" "of the Moon" "Colichir" "Kerokarvar" "Eorikamat" "of the Earths" "Colichir" "Noighyd" "of the Earths" "of the Fires" "Mcscale" "Dragaret" "Draokoran" "Vilisynther" "of the Stars" "Vorcasymath" "of the Fires" "Mcscale" "Eorikamat" "Lipari" "Cefalú" "Mazara" "Caltabellotta" "Catania" "Latakiah" "Rabat"
 		}
 	}
 }
@@ -619,13 +619,13 @@ scythian_group = {
 	sarmatian = { primary = SCY }
 	scolotian = { primary = ZAZ }
 	male_names = {
-		Airawanta Ajatasatru Ajite Alp Ambare Ampratasarme Amrataraksite Amratodane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune Aranemi Arnyartate Arslam Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke Asarte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erkatsole Esmine Etrise Gayakasyape Gayasirs Gaye Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre Indriske Issapake Jatisrone Jetavam J�anacamndre J�anaghose J�anakame J�anakupte J�anamokse J�anasene J�anasome J�anasthite J�anawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake Kanaske Kanthake Kapilavarne Kapilavastu Kas Kasyap Katakarni Kaundinye
-		Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kereptanne Kimne Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande Nandipale Nasme Natte Naradeve Nirot Nupura Nyagrodhe Padmakesar Padmottare Pakacandre Pa�casikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake
-		Pravare Priyadeve Ptompile Pu�aiyse Pu�akame Pu�araksite Pu�icamndre Punyamitre Purtas Rahule Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike Sarmacamdre Sarsire Satuma Satyake Satyaraksite Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye Si�cake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande
-		Uposathe Urbilvakasyape Uttaraphalguni Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske Waryaruci Waryasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasi�i Wisikke Wrauske Yanayase Yarpalaske Yasa Yasawine Yase Yasonaka Yastare Yonge Yonu Ype Yudhisthire Yugaraje
+		Airawanta Ajatasatru Ajite Alp Ambare Ampratasarme Amrataraksite Amratodane Anande Anathapindike Aniruddhe Andhave Anktsas Arjune Aranemi Arnyartate Arslam Arthadarsi Aryamarg Aryaske Aryatewe Aryawarme Aryottame Asokamitre Asokaraksite Asoke Asarte Astawi Atakke Atidivakare Atyuccagami Atraikatte Bimbasare Caitike Caiytiska Cakravar Cakule Candramukhe Candravasu Candre Caracate Cina Cinatyuti Citre Cittaraksite Cowaske Dandakamal Devarakste Dhanike Dipankar Dirghanakhe Dravyasvare Durmukhe Ekasrinke Erkatsole Esmine Etrise Gayakasyape Gayasirs Gaye Gunacamdre Gunasampade Hariscandre Hastake Hetubalike Indradhvaje Indratewe Indre Indriske Issapake Jatisrone Jetavam Jñanacamndre Jñanaghose Jñanakame Jñanakupte Jñanamokse Jñanasene Jñanasome Jñanasthite Jñanawirye Kadike Kalodaye Kalyanamokse Kalyanavraddhi Kalyanawartane Kanake Kanaske Kanthake Kapilavarne Kapilavastu Kas Kasyap Katakarni Kaundinye
+		Kauravye Kausal Kemarcune Kentarske Kercampey Kercapiske Kerdipole Kereptanne Kimne Klenkarako Klpapatre Klyotiska Kotile Koysam Ksemankare Ksmarjune Ksmawarme Ksmate Ksmateworsa Ksmika Kulkera Kumarapunye Kumpante Kunacamttrakau Kunacamttre Kwirapabhadra Lariska Mahasammate Mahisvare Manisvare Mitrakseme Mitraske Mitre Moksasene Moksasome Moksawarme Molyoke Mukalanti Munkhare Murdhagate Nandabala Nandake Nande Nandipale Nasme Natte Naradeve Nirot Nupura Nyagrodhe Padmakesar Padmottare Pakacandre Pañcasikhi Pawaske Pesane Prabhankare Prabhase Pranada Prasamnake
+		Pravare Priyadeve Ptompile Puñaiyse Puñakame Puñaraksite Puñicamndre Punyamitre Purtas Rahule Raktadewe Ratnacuda Ratnasikhi Rsivadam Rudramukhe Rudrasarme Sagare Samantatir Samcite Samghatrate Sanavasi Sanghasarme Sankene Sanum Saputanase Sarasike Sarmacamdre Sarsire Satuma Satyake Satyaraksite Sidhasamgha Siladewe Silamitre Silarakite Silaraksi Silasoma Silavande Silawarne Silayase Silopake Simpraye Siñcake Sinke Sinku Skanatatte Skwarle Slacamndre Solarke Some Srestake Sudarse Sudas Suddhodane Sujate Sukase Suklodane Sunaksatre Sunetre Sutasome Sutate Swarnabuspe Swarnatepe Tarmacandre Tarmaraksite Tenare Tohkem Tonke Tukik Tunka Tusi Udanalankar Udayi Ulkamukhe Uluke Upage Upagupte Upanande
+		Uposathe Urbilvakasyape Uttaraphalguni Uttare Vaisravane Vaitike Varddhane Vidusake Vimalapuspe Vinaise Visale Wamsok Warwattaske Waryaruci Waryasene Wasampile Wasave Wiryadewe Wiryamitre Wiryasanti Wiryasiñi Wisikke Wrauske Yanayase Yarpalaske Yasa Yasawine Yase Yasonaka Yastare Yonge Yonu Ype Yudhisthire Yugaraje
 	}
 	female_names = {
-		Ampratasene Amratasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Canca Dhrtirastre J�ati Kolite Kosthile Malika Maya Nagasene Priyasarini Punyasene Purike Purnaya Purohite Putere Raknaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarmawirne Tartvisara Tati Tisye Upatisye Uppal Uppalavarna Vasisthe Vitasake Yasaraksite Yasodhara
+		Ampratasene Amratasene Arjuna Arunavati Aryakose Aryaraksite Ayardhyame Bhadra Canca Dhrtirastre Jñati Kolite Kosthile Malika Maya Nagasene Priyasarini Punyasene Purike Purnaya Purohite Putere Raknaska Revati Roce Saci Santa Santisene Sari Sthulananda Sudarsane Sumagati Sumaise Sumati Sundari Suwarte Tarmawirne Tartvisara Tati Tisye Upatisye Uppal Uppalavarna Vasisthe Vitasake Yasaraksite Yasodhara
 	}
 	dynasty_names = {
 		Kausalid Gankari Tenarian Ytarimid Tripuskaran Dantapurian
@@ -657,6 +657,7 @@ dacian_group = {
 	}
 	dacian = { primary = RMN }
 	thracian = { primary = THR }
+	getian = { primary = WAL }
 }
 tyrrhenian = {
 	male_names = {
@@ -685,22 +686,22 @@ tyrrhenian = {
 }
 albanian_g = {
 	male_names = {
-		Gjergj Lek� Gjon Kostandin Lul�zim Pal Tanush Aleksand�r Karolus Filippo Adnan Agim Bashkim Besnik
-		Dardan Dhurim Drit�ro Elidon Erjon Fatmir Flamur Florin Hekuran Ilir Ismail Klodian Luigj Milaim
-		Pashko P�llumb P�rparim Pjet�r Rrok Shp�tim Tahir Viktor Xhevat Ylli Zenel Halil Ali Mustafa Qemal
-		Mehmet Ramiz Edi Demaci Edon Dukagjin Haxhi Lish�ndri Mensur Kreshnik Rahman Nxhiku Riza Rexhep
+		Gjergj Lekë Gjon Kostandin Lulëzim Pal Tanush Aleksandër Karolus Filippo Adnan Agim Bashkim Besnik
+		Dardan Dhurim Dritëro Elidon Erjon Fatmir Flamur Florin Hekuran Ilir Ismail Klodian Luigj Milaim
+		Pashko Pëllumb Përparim Pjetër Rrok Shpëtim Tahir Viktor Xhevat Ylli Zenel Halil Ali Mustafa Qemal
+		Mehmet Ramiz Edi Demaci Edon Dukagjin Haxhi Lishëndri Mensur Kreshnik Rahman Nxhiku Riza Rexhep
 		Sulejman Selim Sadik Bujar Nikolla Enver Ramadan
 	}
 	female_names = {
-		Gjylo Af�rdita Blerta Bora Dafina Dardana Era Fatmire Flutura Gentiana Jehona Lindita Lule Luljeta Pranvera Shpresa
+		Gjylo Afërdita Blerta Bora Dafina Dardana Era Fatmire Flutura Gentiana Jehona Lindita Lule Luljeta Pranvera Shpresa
 		Shqipe Teuta Venera Vera Vesa Yllka
 	}
 	dynasty_names = {
-		Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Bi�ak�iu" "Bej Delvina" "Bej Frash�ri" "Bej Libohova" "Bej Ndroque"
-		"Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza �abej
-		�eku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
+		Ahmeti al-Albani Bardha Bazna "Bej Alizoti" "Bej Biçakçiu" "Bej Delvina" "Bej Frashëri" "Bej Libohova" "Bej Ndroque"
+		"Bej Prishtina" "Bej Verlaci" "Bej Vrioni" "Bej Ypi" "Bej Zogu" Belishi Burbank Bushati Buza Çabej
+		Çeku Dine Dragoti Dukagiini Dushku Evangjeli Feza Hoxha Islami Kadare
 		Koculi Konica Konushevci Kosturi Kota Logoreci Merlika-Kruja Mitrovica Mula Noli
-		"Pash� P�rmeti" "Pash� Tepelena" "Pash� Toptani" Poga "Qemal Bej" Shahini Skiroi Tha�i Troja Xoxe
+		"Pashë Përmeti" "Pashë Tepelena" "Pashë Toptani" Poga "Qemal Bej" Shahini Skiroi Thaçi Troja Xoxe
 	}
 	albanian = { primary = ALB }
 	arbereshe = { primary = ITA }
@@ -802,4 +803,33 @@ frankish_g = {
 	austrasian = { primary = LOR }
 	agilolfingian = { primary = BAV }
 	frankish = { primary = FRA } # Fallback
+}
+northern_romance = {
+	male_names = {
+		Abelârd Abelard Adam Adam Adelard Adalhard Ademar Alexandir Alexandir Alfonç Alphonç Amaury Amalric Anfroi Anquetil Anselm Anselm Armand Armand Arnâld Arnold Asclettin Aubrey Baldyin Baldyin
+		Birnard Birnard Birold Birtran Birtrand Beuyeç Blayye Blaiç Bohemond Botolf Botulf Brân Bran Briog Briog Bryt Brutus Clâminç Clemint Cynfael Cynfael Cynfarç Cynfarç Drogo Errand Eustache Eustace Faramond Florènç Firant Firdinand
+		Fulk Folke Fraunk Friry Gaillard Gaufrid Geoffroy Godfrey Gérard Girard Giraud Girald Girbirt Giryas Gilbirt Gilbirt
+		Godfriy Godfriy Goubirt Guy Guy Haimo Hamelin Hinri Hinry Hirbirt Hirbirt Hirman Hirman Hubirt Hugh Hugh Humbirt Humbirt Humphrey Ildebrando Hildebrand Jordân Jordan Joscelin Joscelin Justinânius
+		Lambirt Lambirt Laurènç Laurence Lançelin Lothaere Lothir Marçau Nigil Ordiric Osbirn Osmond Osyulf Osyyn Radolf Ralph Raynaud Rinhold Renaud Rinhold Ranulf Raymond Raymond Raynir Rainir
+		Rhufon Roman Richard Richard  Robirt Robirt Rogir Rogir Rolland Roscelin Sayir Sirlo Sirril Seyal Silyestir Silyestir Simon Simon Stifen Stiphen Tancred Tancredi Torf Tudur Turold Turquetil Turstin
+		Tybalt Theobald Yaliran Yaltir Yaltir Yilbirç Yilliam Yilliam Yicenç Yincent Ynyr Yortimer Yoteporiçis Yymund
+	}
+	female_names = {
+		Aeronyen Adelaide Adelaide Adele Adela Adelin Adeline Adelise Agnes Agnes Albirada Alienora Eleanor Aline Aliç Alice Alison Amburga Aubrey Ayeis Ayelina Ayelina Birengaria
+		Busilla Catrin Clarimond Clemenza Clementia Constânce Constance Cundo Dolça Douce Efa Egelina Eleanor Eleanor Elise Elizâbeth Elysande Emelenine Emma Emma Emonie Erembirga Ermyntrude
+		Ffelis Felicia Felicia Flandina Fredeçende Freçenda Freçenda Freçende Freçenda Geya Giselle Gisela Gohilde Griselda Gundred Gyen Gyen Gyladys Claudia Hadyis Heleyisa Hiria Hirleye Hirmessent Ermesinda Hirmine Hugolina
+		Ida Ida  Judit Judith Lesceline Llear Mabel Marie Maria Matheode Matilda Matilda Maud Matilda Mautild Matilda Maysant Millicent Muriella Onbrâyst Oriel Riçenda Ricârda
+		Rosalind Sança Sancha Seloya Siân Joan Stiphanie Stiphania Sibyl Sibylla Sibylla Sibylla Umfreda Yaldrade Yilmot Yolanda Yolanda Ysbail Yyon Yyonne
+	}
+	dynasty_names = {
+		"du Camulodunum" "di Maridunum" "Sçarponnis" "di Lindum" "d'Dyfid" 
+		"Constântis" "Plantaçinit" "Birtrând" "Pantilaen" "Saint-Gilliç" "Yalintinânus"
+		"d'Albion" "di Londinium" "Trençyal" "Constântis" "Merçadir" "Pinmân" "Rheçid" "Prydin" "Gyerthrynin"
+		"Ebroc" "di Aelii" "Saeyiris" "Marçinis" "Hadrianis" "Faeçi" "Yillonç" "Lipân" "Salyiç" "di Yoteporiçis"
+		"d'Protictoris" "di Ratae" "di Glivun" "di Aquaesolis" "d'Mamucium"
+	}
+
+	brythenig = { primary = ENG }
+	transadrianic = { primary = SCO }
+	breathanach = { primary = IRE }
 }
