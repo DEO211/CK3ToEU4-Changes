@@ -784,6 +784,7 @@ link = { eu4 = varangian ck3 = varangian ck3 = mikligardrish tech = eastern gfx 
 link = { eu4 = mena_german ck3 = aryan ck3 = gegenjiddisch ck3 = wostiyasite tech = eastern gfx = muslimgfx }
 link = { eu4 = vandal ck3 = vandal ck3 = vandalic ck3 = vandale ck3=vandilian ck3 = romano_vandalic tech = western gfx = westerngfx }
 link = { eu4 = anglosaxon ck3=angle ck3 = old_anglian ck3 = gewisse ck3 = hwiccian tech=western gfx=westerngfx } # ImperatorToCK3
+link = { eu4 = gepid ck3 = gepid tech = western gfx = westerngfx }
 
 ##Old Mashriqi
 link = { eu4 = aramaic ck3 = aramaic ck3 = helleno_aramaean ck3 = romano_aramaean ck3 = aramaean ck3 = mandaic tech = eastern gfx = muslimgfx }
@@ -848,6 +849,10 @@ link = { eu4 = dongyi ck3 = dongyi tech = chinese gfx = asiangfx }
 link = { eu4 = baiyue ck3 = baiyue tech = chinese gfx = asiangfx }
 link = { eu4 = old_bashu ck3 = old_bashu tech = chinese gfx = asiangfx }
 
+## British Romance
+link = { eu4 = brythenig ck3 = brythenig ck3 = britanian tech = western gfx = westerngfx }
+link = { eu4 = transadrianic ck3 = caledonian ck3 = transadrianic tech = western gfx = westerngfx }
+link = { eu4 = breathanach ck3 = breathanach ck3 = hibernian tech = western gfx = westerngfx }
 
 ## Extra
 link = { eu4 = oldspain ck3 = non_indo_european_iberian tech = western gfx = westerngfx } # "iberian" overlaps with the post-roman culture of the same name from TFE, seems to be a deprecated culture from a previous version of the IR-CK3 converter?
