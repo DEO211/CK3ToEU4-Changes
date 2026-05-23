@@ -946,13 +946,16 @@ link = { eu4 = russian_culture ck3 = slavic tech = eastern gfx = easterngfx }
 link = { eu4 = pruthenian ck3 = kolochin tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Kolochin_culture
 link = { eu4 = pruthenian ck3 = dnieper tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Dnieper_Balts
 link = { eu4 = lithuanian ck3 = east_galindian tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Galindians#Eastern_Galindians
-link = { eu4 = hispanic ck3 = hispano_roman ck3 = balearic ck3 = galecian ck3 = lusitanian ck3 = baetican ck3 = iberian tech = western gfx = westerngfx } # The post-Roman cultures should maybe have their own EU4 cultures as seen for the Gaulic culture mappings but this placeholder works for now
-link = { eu4 = theodisc ck3 = germanian tech = western gfx = westerngfx } # Should maybe be mapped to Gaulic but this seems more appropriate for what Theodisc is supposed to represent
-link = { eu4 = gaulic ck3 = gallo_roman ck3 = gallian ck3 = aquitan tech = western gfx = westerngfx } # More placeholders for cultures that should be mapped to unique cultures that represent something that's *less* Roman but still distinctly Latin-speaking, as Gaulic is just supposed to be a regional split of Roman in base CK3 to base EU4, but alas I am dumb and don't know how to make them yet. I did consider mapping gallian et al to French but that makes no sense in a world where the Franks never conquered and held onto Gaul
-link = { eu4 = britannian ck3 = britano_roman ck3 = britanian tech = western gfx = westerngfx } # Britanian is a post-Roman scripted divergent culture from TFE, like Breathanach etc, and those are mapped to convert into Britannian
-link = { eu4 = romanian ck3 = dacio_roman tech = eastern gfx = easterngfx }
-link = { eu4 = roman ck3 = thracio_roman ck3 = mauro_roman ck3 = rhaetio_roman tech = western gfx = westerngfx }
-link = { eu4 = salinatorian ck3 = afro_roman tech = western gfx = easterngfx } # Because african_roman is mapped to salinatorian.
+link = { eu4 = hispanic ck3 = hispano_roman tech = western gfx = westerngfx }
+link = { eu4 = theodisc ck3 = germanian ck3 = germano_roman tech = western gfx = westerngfx } 
+link = { eu4 = gaulic ck3 = gallo_roman tech = western gfx = westerngfx } # More placeholders for cultures that should be mapped to unique cultures that represent something that's *less* Roman but still distinctly Latin-speaking, as Gaulic is just supposed to be a regional split of Roman in base CK3 to base EU4, but alas I am dumb and don't know how to make them yet. I did consider mapping gallian et al to French but that makes no sense in a world where the Franks never conquered and held onto Gaul
+link = { eu4 = britannian ck3 = britano_roman tech = western gfx = westerngfx } # Britanian is a post-Roman scripted divergent culture from TFE, like Breathanach etc, and those are mapped to convert into Britannian
+link = { eu4 = pannonian ck3 = dacio_roman tech = eastern gfx = easterngfx }
+link = { eu4 = pannonian ck3 = illyro_roman tech = eastern gfx = easterngfx region = carpathia_region }
+link = { eu4 = euxinian ck3 = helleno_roman tech = western gfx = easterngfx region = anatolia_region region = caucasia_region }
+link = { eu4 = xliponian ck3 = helleno_roman ck3 = illyro_roman ck3 = thracio_roman gfx = easterngfx tech = western }
+link = { eu4 = roman ck3 = sardino_roman ck3 = rhaetio_roman tech = western gfx = westerngfx }
+link = { eu4 = salinatorian ck3 = afro_roman ck3 = mauro_roman tech = western gfx = easterngfx } # Because african_roman is mapped to salinatorian.
 link = { eu4 = gaulish ck3 = gaul tech = western gfx = westerngfx }
 # link = { eu4 = aquitaine ck3 = aquitan tech = western gfx = westerngfx } # Aquitan is an ahistorical post-Roman culture like Balearic and that's mapped to hispanic, so I don't see why it isn't mapped to Gaulic 
 link = { eu4 = celtiberian ck3 = castran tech = western gfx = westerngfx } # https://en.wikipedia.org/wiki/Castro_culture
