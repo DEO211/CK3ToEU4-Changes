@@ -187,7 +187,7 @@ link = { eu4 = dutch ck3 = dutch tech = western gfx = westerngfx }
 
 # Francien
 link = { eu4 = burgundian ck3 = french tech = western gfx = westerngfx region = bourgogne_area region = romandie_area region = switzerland_area region = west_burgundy_area }
-link = { eu4 = burgundian ck3 = burgundy ck3 = burgundian tech = western gfx = westerngfx }
+link = { eu4 = burgundian ck3 = burgundy tech = western gfx = westerngfx }
 link = { eu4 = gascon ck3 = french tech = western gfx = westerngfx region = pyrenees_area region = guyenne_area region = basque_country }
 link = { eu4 = wallonian ck3 = french tech = western gfx = westerngfx region = low_countries_region }
 link = { eu4 = cosmopolitan_french ck3 = french ck3 = romano_frank tech = western gfx = westerngfx }
@@ -933,7 +933,7 @@ link = { eu4 = kishinyov ck3 = sclavenian ck3 = antean gfx = easterngfx }
 link = { eu4 = tangut ck3 = di tech = chinese gfx = asiangfx }
 link = { eu4 = hunnic ck3 = hun ck3 = xionite ck3 = gurjara tech = nomad_group gfx = asiangfx }
 link = { eu4 = malayalam ck3 = malaiya tech = indian gfx = indiangfx }
-link = { eu4 = hindustani ck3 = kaushali tech = indian gfx = indiangfx } # Both Kosala and Kannauji are Indo-Aryan and cover the Uttar Pradesh region.
+link = { eu4 = avadhi ck3 = kaushali tech = indian gfx = indiangfx } # Both Kosala and Kannauji are Indo-Aryan and cover the Uttar Pradesh region.
 link = { eu4 = saurashtri ck3 = saurashtri tech = indian gfx = indiangfx }
 link = { eu4 = malvi ck3 = avantika tech = indian gfx = indiangfx } # https://en.wikipedia.org/wiki/Avanti_(region): "According to the Vishnu Purana (II.3), the Bhagavata Purana (XII.I.36) and the Brahma Purana (XIX.17), the Avantis were associated with the Malava, the Saurashtras, the Abhiras/Yadavas, the Suras, the Karushas and the Arbudas and were described as dwelling along the Pariyatra (or Paripatra) mountains (a western branch of the Vindhyas)."
 link = { eu4 = bengali ck3 = varendri tech = indian gfx = indiangfx } # https://en.wikipedia.org/wiki/Varendra
