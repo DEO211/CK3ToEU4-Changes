@@ -64,3 +64,6 @@ link = { gov = monarchy reform = mandala_reform ck3gov = mandala_government }
 link = { ck3title = e_japan gov = monarchy reform = shogunate }
 link = { ck3title = e_goryeo gov = monarchy reform = korean_monarchy }
 link = { gov = tribal reform = great_mongol_state_reform ck3gov = steppe_admin_government }
+
+# The Fallen Eagle
+link = { gov = monarchy ck3gov = eranshar_government reform = zoroastrian_persian_government_reform }
