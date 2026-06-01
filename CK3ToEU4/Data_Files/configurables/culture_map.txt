@@ -146,7 +146,6 @@ link = { eu4 = septimanian ck3 = frankish tech = western gfx = westerngfx region
 link = { eu4 = aquitanian_frankish ck3 = frankish tech = western gfx = westerngfx region = poitou_area region = orleans_area region = loire_area region = massif_central_area }
 link = { eu4 = neustrian ck3 = frankish tech = western gfx = westerngfx region = brittany_area region = normandy_area region = ile_de_france_area region = champagne_area region = picardy_area }
 link = { eu4 = burgundian_frankish ck3 = frankish tech = western gfx = westerngfx region = provence_area region = savoy_dauphine_area region = bourgogne_area region = west_burgundy_area region = romandie_area }
-link = { eu4 = burgundian_frankish ck3 = burgundian tech = western gfx = westerngfx } # Not Frankish
 link = { eu4 = austrasian ck3 = frankish tech = western gfx = westerngfx region = alsace_area region = lorraine_area region = low_countries_region region = north_german_region }
 link = { eu4 = agilolfingian ck3 = frankish tech = western gfx = westerngfx region = south_german_region region = italy_region }
 link = { eu4 = frankish ck3 = frankish ck3 = old_frankish tech = western gfx = westerngfx } # Fallback
