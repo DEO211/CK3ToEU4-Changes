@@ -23,7 +23,7 @@ gothic_group = {
 	bastarnian = { primary = MOL }
 	lugian = { primary = POL }
 	rugian = { primary = POM }
-	scrian = { primary = MOL }
+	scirian = { primary = MOL }
 	herulian { primary = ZAZ }
 	old_burgundian { primary = BUR }
 	vandal { primary = SIL }
