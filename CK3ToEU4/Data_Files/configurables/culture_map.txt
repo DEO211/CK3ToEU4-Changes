@@ -12,7 +12,6 @@
 #Algerian
 #Tripolitanian
 #Tunisian
-#Dalmatian
 #Neapolitan
 
 ##Hybrid
@@ -40,7 +39,6 @@
 #new_english_hybrid
 #upper_saxon_hybrid
 #dobrujan
-#aromanian
 #dalmatian_hybrid
 #neapolitan_hybrid
 # From WTWSMS: bedouin_dravidian (Gheyr-Alatesalat)
@@ -83,37 +81,37 @@ link = { eu4 = scanian ck3 = scanian tech = western gfx = westerngfx }
 
 # German: the split
 ## By owners
-link = { eu4 = swabian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = SWA } # Swabia
-link = { eu4 = alsatian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = ALS }
-link = { eu4 = austrian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = HAB }
-link = { eu4 = bavarian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = BAV }
-link = { eu4 = franconian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian owner = FKN }
-link = { eu4 = pommeranian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = POM }
-link = { eu4 = prussian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian owner = PRU }
-link = { eu4 = hessian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = HES }
-link = { eu4 = saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = SAX }
-link = { eu4 = swiss ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = SWI }
-link = { eu4 = flemish ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western owner = FLA }
-link = { eu4 = lower_saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = HAN } # Lower Saxon
-link = { eu4 = hannoverian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx owner = WES } # Westphalian
+link = { eu4 = swabian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = SWA } # Swabia
+link = { eu4 = alsatian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = ALS }
+link = { eu4 = austrian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = HAB }
+link = { eu4 = bavarian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = BAV }
+link = { eu4 = franconian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic owner = FKN }
+link = { eu4 = pommeranian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = POM }
+link = { eu4 = prussian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic owner = PRU }
+link = { eu4 = hessian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = HES }
+link = { eu4 = saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = SAX }
+link = { eu4 = swiss ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = SWI }
+link = { eu4 = flemish ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western owner = FLA }
+link = { eu4 = lower_saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = HAN } # Lower Saxon
+link = { eu4 = hannoverian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx owner = WES } # Westphalian
 ## By areas
-link = { eu4 = swabian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = alsace_area region = lower_swabia_area region = upper_swabia_area region = north_rhine_area region = upper_rhineland_area }
-link = { eu4 = alsatian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = lorraine_area region = brittany_area region = normandy_area region = lorraine_area region = picardy_area region = champagne_area region = ile_de_france_area region = loire_area region = bourgogne_area region = west_burgundy_area region = poitou_area region = orleans_area }
-link = { eu4 = austrian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = austria_proper_area region = inner_austria_area region = tirol_area region = carinthia_area region = italy_region region = carpathia_region region = balkan_region }
+link = { eu4 = swabian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = alsace_area region = lower_swabia_area region = upper_swabia_area region = north_rhine_area region = upper_rhineland_area }
+link = { eu4 = alsatian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = lorraine_area region = brittany_area region = normandy_area region = lorraine_area region = picardy_area region = champagne_area region = ile_de_france_area region = loire_area region = bourgogne_area region = west_burgundy_area region = poitou_area region = orleans_area }
+link = { eu4 = austrian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = austria_proper_area region = inner_austria_area region = tirol_area region = carinthia_area region = italy_region region = carpathia_region region = balkan_region }
 link = { eu4 = bavarian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = lower_bavaria_area region = upper_bavaria_area region = east_bavaria_area }
-link = { eu4 = franconian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = franconia_area region = upper_franconia_area }
+link = { eu4 = franconian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = franconia_area region = upper_franconia_area }
 ## Keep sudeten above prussian for silesia.
-link = { eu4 = sudeten ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = erzgebirge_area region = bohemia_area region = moravia_area region = lusatia_area region = silesia_area }
+link = { eu4 = sudeten ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = erzgebirge_area region = bohemia_area region = moravia_area region = lusatia_area region = silesia_area }
 link = { eu4 = sudeten ck3 = pemis ck3 = macromanni tech = western gfx = westerngfx }
-link = { eu4 = pommeranian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = hinter_pommern_area region = vorpommern_area province = 46 province = 2996 province = 4749 province = 2993 province = 4774 }
-link = { eu4 = prussian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = mittelmark_area region = poland_region }
-link = { eu4 = baltic_german ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = baltic_region }
-link = { eu4 = hessian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = hesse_area region = lower_rhineland_area region = north_rhine_area region = palatinate_area } #Rhenish
-link = { eu4 = saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = south_saxony_area region = thuringia_area region = northern_saxony_area province = 4786 province = 49 province = 2969 }
-link = { eu4 = swiss ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = switzerland_area region = romandie_area region = provence_area region = guyenne_area region = languedoc_area region = massif_central_area region = savoy_dauphine_area region = pyrenees_area }
-link = { eu4 = flemish ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = low_countries_region }
-link = { eu4 = lower_saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx province = 4773 province = 57 province = 1758 province = 4141 province = 54 province = 4771 province = 45 province = 1874 region = holstein_area region = lower_saxony_area } # Lower Saxon
-link = { eu4 = hannoverian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian tech = western gfx = westerngfx region = westphalia_area region = lower_saxony_area region = north_westphalia_area province = 55 province = 2971 } # Westphalian
+link = { eu4 = pommeranian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = hinter_pommern_area region = vorpommern_area province = 46 province = 2996 province = 4749 province = 2993 province = 4774 }
+link = { eu4 = prussian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = mittelmark_area region = poland_region }
+link = { eu4 = baltic_german ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = baltic_region }
+link = { eu4 = hessian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = hesse_area region = lower_rhineland_area region = north_rhine_area region = palatinate_area } #Rhenish
+link = { eu4 = saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = south_saxony_area region = thuringia_area region = northern_saxony_area province = 4786 province = 49 province = 2969 }
+link = { eu4 = swiss ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = switzerland_area region = romandie_area region = provence_area region = guyenne_area region = languedoc_area region = massif_central_area region = savoy_dauphine_area region = pyrenees_area }
+link = { eu4 = flemish ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = low_countries_region }
+link = { eu4 = lower_saxon ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx province = 4773 province = 57 province = 1758 province = 4141 province = 54 province = 4771 province = 45 province = 1874 region = holstein_area region = lower_saxony_area } # Lower Saxon
+link = { eu4 = hannoverian ck3 = old_saxon ck3 = german ck3 = saxon ck3 = franconian ck3 = bavarian ck3 = swabian ck3 = langobard ck3 = thuringian ck3 = old_suebi ck3 = marcomannic ck3 = alamannic tech = western gfx = westerngfx region = westphalia_area region = lower_saxony_area region = north_westphalia_area province = 55 province = 2971 } # Westphalian
 ## Fallbacks
 link = { eu4 = austrian ck3 = austrian tech = western gfx = westerngfx }
 link = { eu4 = bavarian ck3 = bavarian ck3 = old_bavarian tech = western gfx = westerngfx }
@@ -121,8 +119,8 @@ link = { eu4 = franconian ck3 = franconian tech = western gfx = westerngfx }
 link = { eu4 = german ck3 = german tech = western gfx = westerngfx }
 link = { eu4 = jerusalemer ck3 = jerusalemer tech = western gfx = westerngfx }
 link = { eu4 = kurlander ck3 = kurlander tech = western gfx = westerngfx }
-link = { eu4 = lower_saxon ck3 = old_saxon ck3 = anglo ck3 = reudignian ck3 = cheruscii tech = western gfx = westerngfx }
-link = { eu4 = saxon ck3 = saxon ck3 = upper_saxon ck3 = buri ck3 = meissener ck3 = markish ck3 = lausitzian tech = western gfx = westerngfx }
+link = { eu4 = lower_saxon ck3 = old_saxon ck3 = anglo ck3 = reudignian ck3 = cheruscii ck3 = saxon ck3 = markish tech = western gfx = westerngfx }
+link = { eu4 = saxon ck3 = upper_saxon ck3 = buri ck3 = meissener ck3 = lausitzian tech = western gfx = westerngfx }
 link = { eu4 = swabian ck3 = swabian ck3 = alamannian ck3 = bucinobantian tech = western gfx = westerngfx }
 link = { eu4 = hessian ck3 = thuringian ck3 = chatti tech = western gfx = westerngfx }
 link = { eu4 = pommeranian ck3 = pomeranian ck3 = warnic ck3 = denziner ck3 = lebus ck3 = gustow ck3 = rygir tech = western gfx = westerngfx }
@@ -130,7 +128,7 @@ link = { eu4 = pommeranian ck3 = pomeranian ck3 = warnic ck3 = denziner ck3 = le
 # Central Germanic
 
 link = { eu4 = lothringian ck3 = lothringian tech = western gfx = westerngfx }
-link = { eu4 = swabian ck3 = suebi tech = western gfx = westerngfx region = north_german_region region = south_german_region }
+link = { eu4 = swabian ck3 = suebi ck3 = old_suebi tech = western gfx = westerngfx region = north_german_region region = south_german_region }
 link = { eu4 = suebi ck3 = suebi tech = western gfx = westerngfx }
 
 ## Splitting Lombards
@@ -778,11 +776,17 @@ link = { eu4 = anatolian ck3 = ionic ck3 = cappadocian tech = eastern gfx = east
 link = { eu4 = pontic_greek ck3 = pontic tech = eastern gfx = easterngfx }
 link = { eu4 = trojan ck3 = trojan tech = eastern gfx = easterngfx }
 ## Germanic
-link = { eu4 = gothic ck3 = gothic ck3 = heruli ck3 = skirian ck3 = gepid ck3 = taifal ck3 = gothi tech = western gfx = westerngfx }
+link = { eu4 = bastarnian ck3 = bastarnian ck3 = vandalin tech = eastern gfx = easterngfx }
+link = { eu4 = old_burgundian ck3 = burgundian tech = western gfx = easterngfx }
+link = { eu4 = rugian ck3 = rugian tech = western gfx = easterngfx }
+link = { eu4 = scirian ck3 = scirian ck3 = skirian tech = western gfx = easterngfx }
+link = { eu4 = herulian ck3 = herulian ck3 = heruli tech = western gfx = easterngfx }
+link = { eu4 = lugian ck3 = przeworsk tech = western gfx = easterngfx }
+link = { eu4 = gothic ck3 = gothic ck3 = taifal ck3 = gothi ck3 = gothonic tech = western gfx = westerngfx }
 link = { eu4 = ostrogothic ck3=thracian_gothic ck3 = ostrogothic tech = western gfx = westerngfx }
 link = { eu4 = varangian ck3 = varangian ck3 = mikligardrish tech = eastern gfx = easterngfx }
 link = { eu4 = mena_german ck3 = aryan ck3 = gegenjiddisch ck3 = wostiyasite tech = eastern gfx = muslimgfx }
-link = { eu4 = vandal ck3 = vandal ck3 = vandalic ck3 = vandale ck3=vandilian ck3 = romano_vandalic tech = western gfx = westerngfx }
+link = { eu4 = vandal ck3 = vandal ck3 = vandalic ck3 = vandale ck3 = vandilian ck3 = romano_vandalic tech = western gfx = westerngfx }
 link = { eu4 = anglosaxon ck3=angle ck3 = old_anglian ck3 = gewisse ck3 = hwiccian tech=western gfx=westerngfx } # ImperatorToCK3
 link = { eu4 = gepid ck3 = gepid tech = western gfx = westerngfx }
 
@@ -849,10 +853,14 @@ link = { eu4 = dongyi ck3 = dongyi tech = chinese gfx = asiangfx }
 link = { eu4 = baiyue ck3 = baiyue tech = chinese gfx = asiangfx }
 link = { eu4 = old_bashu ck3 = old_bashu tech = chinese gfx = asiangfx }
 
-## British Romance
+## Expanded Romance
 link = { eu4 = brythenig ck3 = brythenig ck3 = britanian tech = western gfx = westerngfx }
 link = { eu4 = transadrianic ck3 = caledonian ck3 = transadrianic tech = western gfx = westerngfx }
 link = { eu4 = breathanach ck3 = breathanach ck3 = hibernian tech = western gfx = westerngfx }
+link = { eu4 = african_romance ck3 = african_romance tech = western gfx = westerngfx }
+link = { eu4 = mauritanian_romance ck3 = mauritanian_romance tech = western gfx = westerngfx }
+
+link = { eu4 = laessin ck3 = germanian ck3 = laessin tech = western gfx = westerngfx }
 
 ## Extra
 link = { eu4 = oldspain ck3 = non_indo_european_iberian tech = western gfx = westerngfx } # "iberian" overlaps with the post-roman culture of the same name from TFE, seems to be a deprecated culture from a previous version of the IR-CK3 converter?
@@ -899,15 +907,15 @@ link = { eu4 = wallonian ck3 = romano_gallic ck3 = gallo_romance tech = western 
 link = { eu4 = gaulic ck3 = romano_gallic ck3 = gallo_romance tech = western gfx = westerngfx }
 
 ## Fallen Eagle
-link = { eu4 = suebi ck3 = old_suebi ck3 = marcomannic tech = western gfx = westerngfx } # According to Tacitus, Marcomanni were Suebi.
+link = { eu4 = suebi ck3 = western_suebi ck3 = suebi tech = western gfx = westerngfx } # According to Tacitus, Marcomanni were Suebi.
 link = { eu4 = gothic ck3 = herulian ck3 = scirian ck3 = gothonic ck3 = rugian tech = western gfx = westerngfx }
 link = { eu4 = swabian ck3 = alamannic tech = western gfx = westerngfx }
 link = { eu4 = helvetian ck3 = helvetian tech = western gfx = westerngfx }
-link = { eu4 = frankish ck3 = ripurian ck3 = salian tech = western gfx = westerngfx }
+link = { eu4 = dutch ck3 = salian tech = western gfx = westerngfx }
+link = { eu4 = franconian ck3 = ripurian tech = western gfx = westerngfx }
 link = { eu4 = frisian ck3 = frisa tech = western gfx = westerngfx }
 link = { eu4 = vandal ck3 = varinian tech = western gfx = westerngfx } # https://en.wikipedia.org/wiki/Warini
-link = { eu4 = scordiscian ck3 = bastarnian tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/List_of_early_Germanic_peoples on Scordisci: "Related to the Bastarnae according to Titus Livy"
-link = { eu4 = dalmatian ck3 = illyro_roman tech = western gfx = westerngfx }
+link = { eu4 = dalmatian ck3 = dalmatian tech = western gfx = westerngfx }
 link = { eu4 = illyrian ck3 = illyrian tech = western gfx = easterngfx }
 link = { eu4 = aramaic ck3 = aramean tech = eastern gfx = muslimgfx }
 link = { eu4 = coptic ck3 = kemetic tech = eastern gfx = easterngfx }
