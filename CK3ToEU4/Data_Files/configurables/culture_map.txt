@@ -224,7 +224,6 @@ link = { eu4 = theodisc ck3 = laessin tech = western gfx = westerngfx }
 link = { eu4 = pannonian ck3 = roman tech = western gfx = easterngfx region = carpathia_region }
 link = { eu4 = pannonian ck3 = romano_pannonian ck3 = pannonian_romance gfx = easterngfx tech = western }
 link = { eu4 = wenedyk ck3 = roman tech = western gfx = easterngfx region = russia_region region = ural_region region = baltic_region region = poland_region region = ruthenia_region region = crimea_region }
-link = { eu4 = wenedyk ck3 = wenedyk tech = western gfx = easterngfx }
 link = { eu4 = britannian ck3 = roman tech = western gfx = westerngfx region = british_isles_region }
 link = { eu4 = britannian ck3 = breathanach ck3 = brythenig ck3 = romano_british ck3 = british_romance tech = western gfx = westerngfx }
 link = { eu4 = hyperborean ck3 = roman tech = western gfx = inuitgfx region = scandinavia_region }
@@ -320,8 +319,9 @@ link = { eu4 = gaulish_greek ck3 = velgese ck3 = metalpesian ck3 = prinalpesian 
 link = { eu4 = spanish_greek ck3 = varquelonic ck3 = vaskician ck3 = vaitic ck3 = lousitanian tech = eastern gfx = westerngfx }
 link = { eu4 = german_greek ck3 = prinelbite ck3 = metalbite tech = eastern gfx = easterngfx }
 link = { eu4 = mena_greek ck3 = susite ck3 = azotite ck3 = carchidonian tech = eastern gfx = muslimgfx }
-link = { eu4 = bactrian ck3 = bactrian ck3 = tokhari tech = eastern gfx = easterngfx }
+link = { eu4 = bactrian ck3 = tokhari tech = eastern gfx = easterngfx }
 link = { eu4 = alexandrine ck3 = indogreek tech = eastern gfx = easterngfx }
+link = { eu4 = seleucian ck3 = syrian tech = eastern gfx = easterngfx }
 
 # Celtic
 link = { eu4 = pictish ck3 = pictish tech = western gfx = westerngfx }
@@ -353,7 +353,7 @@ link = { eu4 = vepsian ck3 = vepsian tech = eastern gfx = inuitgfx }
 
 link = { eu4 = latvian ck3 = latgalian ck3 = zemgalian ck3 = selonian tech = eastern gfx = easterngfx }
 link = { eu4 = lithuanian ck3 = lithuanian ck3 = sudovian tech = eastern gfx = easterngfx }
-link = { eu4 = pruthenian ck3 = prussian ck3 = galindian ck3 = curonian ck3 = vistula_veneti ck3 = przeworsk ck3 = vidivarii ck3 = goliad tech = eastern gfx = easterngfx }
+link = { eu4 = pruthenian ck3 = prussian ck3 = galindian ck3 = curonian ck3 = vistula_veneti ck3 = goliad tech = eastern gfx = easterngfx }
 
 # Tatar
 link = { eu4 = astrakhani ck3 = tatar ck3 = tatars ck3 = mongol ck3 = bolghar tech = nomad_group gfx = muslimgfx region = astrakhan_area region = lower_don_area region = lower_yik_area region = saratov_area }
@@ -440,7 +440,7 @@ link = { eu4 = algerian ck3 = butr ck3 = baranis ck3 = zaghawa ck3 = maghrebi te
 link = { eu4 = moroccan ck3 = butr ck3 = baranis ck3 = zaghawa ck3 = maghrebi tech = muslim gfx = muslimgfx region = northern_morocco_area region = tafilalt_area region = sus_area region = marrekesh_area region = western_morocco_area region = southern_morocco_area }
 link = { eu4 = tunisian ck3 = butr ck3 = baranis ck3 = zaghawa ck3 = maghrebi tech = muslim gfx = muslimgfx region = tunisia_area region = djerba_area }
 link = { eu4 = berber ck3 = butr ck3 = baranis ck3 = maghrebi ck3 = numidian ck3 = haratin ck3 = romano_african ck3 = berber ck3 = guanches ck3 = tashellhit ck3 = tamazight ck3 = riffian ck3 = shenwa ck3 = taqbaylit ck3 = tacawit ck3 = nafusi ck3 = mzab_wargla ck3 = tuareg ck3 = garamantian ck3 = libyan ck3 = western_berber tech = muslim gfx = muslimgfx }
-link = { eu4 = al_suryah_arabic ck3 = syrian ck3 = levantine ck3 = adnanite ck3 = yathribi ck3 = eblaite tech = muslim gfx = muslimgfx }
+link = { eu4 = al_suryah_arabic ck3 = levantine ck3 = adnanite ck3 = yathribi ck3 = eblaite tech = muslim gfx = muslimgfx }
 link = { eu4 = al_misr_arabic ck3 = egyptian tech = muslim gfx = muslimgfx }
 link = { eu4 = andalucian ck3 = andalusian ck3 = mozarabic ck3 = mozarab ck3 = iqritis tech = muslim gfx = muslimgfx }
 link = { eu4 = yemeni_culture ck3 = yemeni ck3 = qahtanite ck3 = hadramaut ck3 = sabaean ck3 = minaean ck3 = himyarite ck3 = khalan tech = muslim gfx = muslimgfx }
@@ -787,7 +787,8 @@ link = { eu4 = ostrogothic ck3=thracian_gothic ck3 = ostrogothic tech = western 
 link = { eu4 = varangian ck3 = varangian ck3 = mikligardrish tech = eastern gfx = easterngfx }
 link = { eu4 = mena_german ck3 = aryan ck3 = gegenjiddisch ck3 = wostiyasite tech = eastern gfx = muslimgfx }
 link = { eu4 = vandal ck3 = vandal ck3 = vandalic ck3 = vandale ck3 = vandilian ck3 = romano_vandalic tech = western gfx = westerngfx }
-link = { eu4 = anglosaxon ck3=angle ck3 = old_anglian ck3 = gewisse ck3 = hwiccian tech=western gfx=westerngfx } # ImperatorToCK3
+link = { eu4 = anglosaxon ck3=angle ck3 = old_anglian ck3 = gewisse ck3 = hwiccian ck3 = jute region = britain_region tech=western gfx=westerngfx } # ImperatorToCK3
+link = { eu4 = lower_saxon ck3=angle ck3 = old_anglian ck3 = gewisse ck3 = hwiccian tech=western gfx=westerngfx } # ImperatorToCK3
 link = { eu4 = gepid ck3 = gepid tech = western gfx = westerngfx }
 
 ##Old Mashriqi
@@ -859,8 +860,10 @@ link = { eu4 = transadrianic ck3 = caledonian ck3 = transadrianic tech = western
 link = { eu4 = breathanach ck3 = breathanach ck3 = hibernian tech = western gfx = westerngfx }
 link = { eu4 = african_romance ck3 = african_romance tech = western gfx = westerngfx }
 link = { eu4 = mauritanian_romance ck3 = mauritanian_romance tech = western gfx = westerngfx }
-
+link = { eu4 = moselle ck3 = germanian ck3 = laessin region = france_region region = alsace_area region = lower_rhineland_area province = 4767 province = 1761 province = 85 tech = western gfx = westerngfx }
+link = { eu4 = rhogian ck3 = germanian  region = eastern_europe_subcontinent tech = western gfx = westerngfx }
 link = { eu4 = laessin ck3 = germanian ck3 = laessin tech = western gfx = westerngfx }
+link = { eu4 = rhogian ck3 = wenedyk tech = western gfx = westerngfx }
 
 ## Extra
 link = { eu4 = oldspain ck3 = non_indo_european_iberian tech = western gfx = westerngfx } # "iberian" overlaps with the post-roman culture of the same name from TFE, seems to be a deprecated culture from a previous version of the IR-CK3 converter?
@@ -959,15 +962,20 @@ link = { eu4 = russian_culture ck3 = slavic tech = eastern gfx = easterngfx }
 link = { eu4 = pruthenian ck3 = kolochin tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Kolochin_culture
 link = { eu4 = pruthenian ck3 = dnieper tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Dnieper_Balts
 link = { eu4 = lithuanian ck3 = east_galindian tech = eastern gfx = easterngfx } # https://en.wikipedia.org/wiki/Galindians#Eastern_Galindians
+link = { eu4 = gallian ck3 = gallian tech = western gfx = westerngfx }
+link = { eu4 = romansh ck3 = romansh tech = western gfx = westerngfx }
+link = { eu4 = baetican ck3 = baetican tech = western gfx = westerngfx }
+link = { eu4 = pannonian_latin ck3 = pannonian_latin tech = western gfx = westerngfx }
+link = { eu4 = aromanian ck3 = aromanian tech = western gfx = westerngfx }
 link = { eu4 = hispanic ck3 = hispano_roman tech = western gfx = westerngfx }
-link = { eu4 = theodisc ck3 = germanian ck3 = germano_roman tech = western gfx = westerngfx } 
+link = { eu4 = theodisc ck3 = germano_roman ck3 = rhaetio_roman tech = western gfx = westerngfx } 
 link = { eu4 = gaulic ck3 = gallo_roman tech = western gfx = westerngfx } # More placeholders for cultures that should be mapped to unique cultures that represent something that's *less* Roman but still distinctly Latin-speaking, as Gaulic is just supposed to be a regional split of Roman in base CK3 to base EU4, but alas I am dumb and don't know how to make them yet. I did consider mapping gallian et al to French but that makes no sense in a world where the Franks never conquered and held onto Gaul
 link = { eu4 = britannian ck3 = britano_roman tech = western gfx = westerngfx } # Britanian is a post-Roman scripted divergent culture from TFE, like Breathanach etc, and those are mapped to convert into Britannian
 link = { eu4 = pannonian ck3 = dacio_roman tech = eastern gfx = easterngfx }
 link = { eu4 = pannonian ck3 = illyro_roman tech = eastern gfx = easterngfx region = carpathia_region }
 link = { eu4 = euxinian ck3 = helleno_roman tech = western gfx = easterngfx region = anatolia_region region = caucasia_region }
 link = { eu4 = xliponian ck3 = helleno_roman ck3 = illyro_roman ck3 = thracio_roman gfx = easterngfx tech = western }
-link = { eu4 = roman ck3 = sardino_roman ck3 = rhaetio_roman tech = western gfx = westerngfx }
+link = { eu4 = roman ck3 = sardino_roman tech = western gfx = westerngfx }
 link = { eu4 = salinatorian ck3 = afro_roman ck3 = mauro_roman tech = western gfx = easterngfx } # Because african_roman is mapped to salinatorian.
 link = { eu4 = gaulish ck3 = gaul tech = western gfx = westerngfx }
 # link = { eu4 = aquitaine ck3 = aquitan tech = western gfx = westerngfx } # Aquitan is an ahistorical post-Roman culture like Balearic and that's mapped to hispanic, so I don't see why it isn't mapped to Gaulic 
