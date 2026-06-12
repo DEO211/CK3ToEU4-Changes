@@ -434,13 +434,14 @@ british = {
 	}
 	arvorigeg = { primary = FRA }
 	dramor = { primary = KOJ }
+	pictish = {
+		primary = HSC
+		dynasty_names = { "map Artcois" "map Bargoit" "map Buthud" "map Enfret" "map Eru" "map Gyrom" "map Lutrin" "map Mailcon" "map Munait" "map Taixali" "map Uleo" "map Wthoil" Circin Deoardivois Diuberr Erilich "Gaed Brechach" Gurthinmoch Ini Loc Morbet Necton Olgudach Smertae Tina Uecla Uip Vepogenus Wurgest }
+	}
+	cumbric = { primary = SCO }
 }
 gaelic = {
 	coigriche = { primary = KOJ }
-	pictish = {
-		primary = SCO
-		dynasty_names = { "map Artcois" "map Bargoit" "map Buthud" "map Enfret" "map Eru" "map Gyrom" "map Lutrin" "map Mailcon" "map Munait" "map Taixali" "map Uleo" "map Wthoil" Circin Deoardivois Diuberr Erilich "Gaed Brechach" Gurthinmoch Ini Loc Morbet Necton Olgudach Smertae Tina Uecla Uip Vepogenus Wurgest }
-	}
 }
 latin = {
 	italian = {
@@ -759,7 +760,7 @@ byzantine = {
 	anatolian = {
 		primary = BYZ
 	}
-	bactrian = {
+	greco_bactrian = {
 		primary = TRS
 	}
 	empurian = {
@@ -892,6 +893,39 @@ turko_semitic = {
 	lebanese = { primary = LEB }
 	soqotri = { primary = MHR }
 	palestinian = { primary = KOJ }
+	nabatean = {
+		primary = MAM
+
+		dynasty_names = {
+			Absid Adiyyat Adnaniyyat Bahili Bahiriyyat Dhabbi Dhabyanid Ghatapani Guhayniyyat Halatiyyat
+			Halati Hizzani Muharibiyyat Nabatid Qaysi Pazariyyat Salihi Taghlibiyyat Udhriyyat Zuhri Zuhriyyat
+		}
+		male_names = {
+			Abbad Abbas Abdil Abdilah Abdumanap Abdumanat Abdumuttalab Abdusamiyya Abdushams Abduzza Abgar Abs 
+			Abulayla Abyate Adal Adi Adiyyu Adnan Adwan Agur Ali Alqama Amir Amr Anaz Anaza Antara Appan Apsa 
+			Asad Awp Aws Ayham Aylan Aziz Azwad Badr Baghid Bahila Bahira Bakr Balbil Bali Basqanu Batina Dabba 
+			Damra Dhabba Dhabyan Dhukipli Dhuqarnayn Dorayd Du_miyyu Gabala Gadhima Gadila Ganab Gapna
+			Garir Gashmu Gasr Ghalib Ghassan Ghatapan Ghazwan Ghipar Gindib Gudham Guhayna Gumayhir Gunada Gunaydib 
+			Hadir Hagar Hakam Halid Hamza Handhala Hadhayl Hanipa Harb Hasapa Hashim Hattab Hawazan Hawwazin 
+			Haza_il Hayran Higr Hilal Hilliza Hinb Hisham Hizzan Hud Hudhayl Hun Huwwaylid Huzayma Ilgabal Ilkrima 
+			Ilkud Ilyas Imru Imruqays Isay Iyad Iyas Kilab Kinana Kulthum Labid Layth Lihyan Luqman Mahlay Malik 
+			Mansur Maymun Mayyur Mudar Mudlig Mudrika Mughira Muhammad Muharib Mulayl Munabbih Mundhir Murr Murra 
+			Muttalib Nabat Nadr Nashrihab Nasr Nawpal Nizar Numayr Nupayl Pazara Pihr Qabisa Qabus Qallam Qara 
+			Qarish Qasim Qasit Qaynu Qays Qunus Quray Quraysh Qurayza Qussayyu Rabbil Rayth Salih Samsigeram 
+			Sanatruq Saypa Shaddad Sharahil Shayba Shayban Shamsi Sinan Sulaym Summa Tabiha Taghlib Talha Talib 
+			Tamim Tarapa Taym Thabit Thaqip Tupayl Ubada Udhra Udd Umayya Urwa Utba Uthman Wahb Wahbil Wahbilah 
+			Walid Waraqa Wuhayb Wulgash Yamliku Yaqaza Yaqe Yashkur Yazid Ziyad Zuhayr Zuhra
+		}
+		female_names = {
+			Aminat Apirat Arwat Asmat Atikat Barrat Da_ipat Dish Domnat Amirta Esther Babatha Bathzabbay
+			Brurya Hawa Hulda Gamilath Haghra Gamilat Gannat Habibat Hadigat Halat Halidat
+			Hannat Hantamat Hapsat Hawlat Hayyat Hind Kathamat Laylat Lubabat Lubnat Ma_isat Ma_wiyyat Maymunat
+			Nadlat Pahitat Pari_at Pasa_il Patimat Qilabat Quraybat Ramlat Rayhanat Raytat Ruqayyat Salmat
+			Sapiyyat Sarat Sawdat Shipat Sumrat Supyanat Thaqipi Tumadir Umamat Umaymat Umm Ummukulthum Wahshiyyat
+			Zabibe Zaynab Zaypat Idhra Imama Ma_aha Mamaya Martha Maysa Mliha Nohara Nona Rabbel Rehel Shamiram Shirin
+			Shloma Sohaym Sumaha Tadi Tayara Thaqilath Tvitha Urana Yuthaf Zveda Huldu Shaqilath Shagilath
+		}
+	}
 }
 maghrebi = {
 	kabylian = { primary = KBA }
@@ -959,6 +993,7 @@ iranian = {
 	mervi = { primary = KHO }
 	shirvani = { primary = SRV }
 	parthian = { primary = PRA }
+	bactrian = { primary = TRS }
 }
 altaic = {
 	khitan = {
