@@ -487,6 +487,7 @@ old_mashriqi = {
 			Abdosir Arishat Astarte Batnoam Dido Shayna Sophonisba Tamar
 		}
 	}
+	philistine = { primary = KOJ }
 	aramaic = { #EU Rome
 		primary = OSR
 		dynasty_names = {
@@ -663,6 +664,7 @@ hittite_group = {
 	}
 	lydian = { primary = RUM }
 	hittite = { primary = RUM }
+	old_anatolian = { primary = RUM }
 	phrygian = {
 		primary = PHR
 		male_names = {
@@ -881,6 +883,7 @@ albanian_g = {
 			Andinid Andid Annesid Annid Aplid Apludid Apurid Baizid Bardurid Batid Beukid Beusid Bizid Karrid Daitorid Dasid Dazomenid Dazid Epicarid Iettid Laidicalid Laidietid Laidid Ledrid Messid Messorid Panentid Panid Pantid Plannid Plarid Proradid Samekkid Sarnid Skenobarbid Statanid Statikid Statid Suttid Tizid Tritonid Tritid Turelid Varanid Varidid Vendid Vepid Verzulid Carvanid Germanid Lavianid Pinsid Pladomenid Platid Verzaiid Anadrid Buzetid Ditid Loantid Pantadienid Platorid Platourid Portid Rufantid Sestenid Stennid Vendid Tourranid Tourrinid Tourid Iaritid Montanid Parmanikid Sarid Senekid Silid Sinid Blaidarid Dasmenid Lensid Sassaid Skilid Surkid Kralid Lirid Passalid Likkaid Skenid
 		}
 	}
+	messapian = { primary = NAP }
 }
 old_lombard_g = {
 	male_names = {
